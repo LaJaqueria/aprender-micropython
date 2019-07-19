@@ -1,4 +1,4 @@
-# Taller de X
+# Aprender Micropython
 
 TODO: Aquí debe de ir toda la **Descripción del taller**
 
