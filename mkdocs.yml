@@ -1,12 +1,12 @@
 # 1. Información del Taller
-site_name: Aprender Python
-site_description: La Jaqueria - Aprender Python desde cero
+site_name: Aprender Micropython
+site_description: La Jaqueria - Aprender Micropython desde cero
 site_author: La Jaquería
 site_url: https://lajaqueria.org/
 
 # 2. Repositorio
-repo_name: LaJaqueria/aprender-python
-repo_url: https://github.com/LaJaqueria/aprender-python
+repo_name: LaJaqueria/aprender-micropython
+repo_url: https://github.com/LaJaqueria/aprender-micropython
 edit_uri: ""
 
 # 3. Copyright
