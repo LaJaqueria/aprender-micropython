@@ -1,13 +1,11 @@
 # Autor / autores
 
+![Foto de perfil](img/logo-jaqueria.jpg)
+
+Autor: La Jaqueria
+
+Bio:
+
 TODO:
 
-![Foto de perfil](img/perfil.jpg)
-
-Autor: Cristóbal Contreras Rubio
-
-Bio: ...
-
-Motivaciones: ...
-
-Pon info sobre ti y si quieres hacer anotaciones antes del taller.
+> "Si quieres ir rápido, camina solo. Si quieres llegar lejos, ve acompañado"
