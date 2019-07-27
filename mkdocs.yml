@@ -27,6 +27,7 @@ nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md # TODO:
   - Sobre nosotros: about.md
+  - Lista de la compra: materiales.md
   - Instalación:
     - Instalación: instalacion/instalacion.md # TODO:
     - Windows: instalacion/windows.md # TODO:
