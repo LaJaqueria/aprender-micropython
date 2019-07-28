@@ -1,4 +1,4 @@
-# Aprender Micropython
+# Aprender Micropython desde cero
 
 TODO: Aquí debe de ir toda la **Descripción del taller**
 
@@ -17,10 +17,10 @@ Esta es la lista de tareas que tienes que hacer para poner a punto este taller �
 * [ ] Vuelve a hacer un despliegue ya con el resultado final y comprueba que se quede perfecto.
 * [ ] Recuerda hacer subir todos tus cambios a la rama master con `git commit -am "Mensaje del commit"`.
 
-[Micropython](micropython.org) es una tecnología Open Source que nos permite programar placas electrónicas, similares a las de Arduino, pero con un subconjunto del lenguaje [Python](python.org). Las ventajas son muchas:
+Bienvenid@, si has llegado aquí es una gran gran noticia ¿Que por qué? Porque en esta web vas a aprender a usar una tecnología Open Source muy chula llamada [Micropython](micropython.org). Con ella vamos a poder programar placas electrónicas, similares a las de Arduino, pero conectadas a Internet, usando un subconjunto del lenguaje [Python](python.org). Las ventajas son muchas:
 
 * Python es un lenguaje mucho más amigable y fácil de aprender que C/C++.
 * Micropython viene preparado para trabajar con placas conectadas a Internet (tiene una pila TCP/IP).
 * Sus placas son asequibles y vas a encontrar en cualquier tienda online.
 
-No hay excusas para no aprender Micropython ¡¡¡empezamos!!!
+No, no es mentira, es todo real 100% ¿Te gusta? ¿Te parece una buena idea? ¿No me crees? Sea lo que sea, solo si sigues leyendo lo descubrirás por ti mism@. No hay excusas para no aprender Micropython ¡¡¡VAMOS!!!
